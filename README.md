@@ -4,7 +4,7 @@
 ##### This project is by no means complete.
 ##### For linux class exercise only
 ---
-## Group member:
+## Group members:
 #### All from BUPT SEE 2019
 - 李治淳
 - 王皓天
