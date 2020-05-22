@@ -1,6 +1,7 @@
-##### This is the bilibili shell script
+## Description:
+##### This is the bilibili shell script.
 ##### By Group 12
-##### This project is by no means complete
+##### This project is by no means complete.
 ##### For linux class exercise only
 ---
 ## Group member:
