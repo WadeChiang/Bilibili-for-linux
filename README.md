@@ -13,9 +13,9 @@
 - [ENDgaaame](https://github.com/ENDgaaame)
 ---
 ## Dependencies:
-- GNOME (zenity)
-- Python3 (必要库:matplotlib, urllib3)
-- you-get (安装命令:pip3 install you-get)
+- `zenity`
+- `python3` (Packages needed: `matplotlib`, `urllib3`)
+- `you-get` (use `pip3 install you-get` for installation)
 ---
 ## Acknowledgements:
 - Jannchie for [Historical-ranking-data-visualization-based-on-d3.js](https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js)
