@@ -8,7 +8,7 @@
 #### All from BUPT SEE 2019
 - 李治淳
 - 王皓天
-- [姜洪烨](https://github.com/charlie0129)
+- [charlie0129](https://github.com/charlie0129)
 - 蒋泽宇
 - 黄力霄
 ---
