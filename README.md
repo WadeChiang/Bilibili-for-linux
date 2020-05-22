@@ -9,8 +9,8 @@
 - [Monstry](https://github.com/Monstry)
 - [Nick-bit233](https://github.com/Nick-bit233)
 - [charlie0129](https://github.com/charlie0129)
-- 蒋泽宇
-- 黄力霄
+- [WadeChiang](https://github.com/WadeChiang)
+- [ENDgaaame](https://github.com/ENDgaaame)
 ---
 ## Dependencies:
 - GNOME (zenity)
