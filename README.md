@@ -18,4 +18,4 @@
 - you-get (安装命令:pip3 install you-get)
 ---
 ## Acknowledgements:
-- [Jannchie for Historical-ranking-data-visualization-based-on-d3.js](https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js)
+- Jannchie for [Historical-ranking-data-visualization-based-on-d3.js](https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js)
